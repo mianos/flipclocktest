@@ -1,0 +1,24 @@
+.flip-clock-wrapper ul {
+        background: #fff;
+    }
+
+.flip-clock-wrapper ul li a div.up:after {
+	background-color: #fff;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+.flip-clock-wrapper ul li a div div.inn {
+	color: #111;
+	text-shadow: 0 1px 1px #555;
+	background-color: #ddd;
+}
+
+.flip-clock-meridium {
+  background: none !important;
+  box-shadow: 0 0 0 !important;
+  font-size: 36px !important; }
+
+.flip-clock-meridium li a {
+	color: rgb(20, 20, 20);
+	text-shadow: 0 5px 5px #555;
+}
